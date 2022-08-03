@@ -1,2 +1,1 @@
-# BA-Venture-Ltd
-A real estate company website developed using elementor
+<strong> NOTE: Run XAMPP/WAMP/LAMPP before accessing the website! </strong>
